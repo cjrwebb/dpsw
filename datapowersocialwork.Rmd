@@ -22,6 +22,8 @@ library(prettydoc)
 
 <br>
 
+*This is a living resource. You can request to add original chapters, exercises, videos, references, correct spelling and grammar, or adapt it for your own course by accessing it through git: https://github.com/cjrwebb/dpsw*
+
 # Introduction
 
 This is a short interactive resource created for Social Work students at the University of Sheffield about the use of quantitative data in social work practice. It is intended to be a living workbook/lesson that can be accessed by the wider community, with a padlet at the bottom where agreement, disagreement, thoughts and comments can be made. In it, I want us to think about the question what role can data play in social work, and in this case, I’ll be referring to data in its quantitative sense. This means numbers, figures, and statistics; data associated with counting and measuring, as opposed to qualitative data associated with text and language. The session is broken down into this short ‘paper’, with some video examples and exercises. You can complete these exercises either independently or in groups, and may find it useful to compare how one another might use the data. There will be a padlet board at the bottom of the ‘article’ to discuss your thoughts.

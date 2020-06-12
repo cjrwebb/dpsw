@@ -1,6 +1,6 @@
 # Data-Power-and-Social-Work
  
-This is the repository for the Data(,) Power and Social Work 'living resource' for MA Social Work students at the University of Sheffield and the social work community.
+This is the repository for the Data(,) Power and Social Work 'living resource' for MA Social Work students at the University of Sheffield and the social work community. The resource is hosted at [www.calumwebb.uk/datapowersocialwork.html](www.calumwebb.uk/datapowersocialwork.html) and the github version can be viewed [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/cjrwebb/dpsw/master/datapowersocialwork.html?token=AP3PS6DLA4U6KBKIOZOVB3K64PYT2).
 
 The initial commit includes two chapters by Dr Calum Webb. The first concerns whether data can be used in direct practice as a tool for identifying, working with, and implementing support for highly stigmatised experiences like poverty. The second chapter considers the political and rhetorical power of quantitative research, statistical analysis and data literacy, and the potential for its use in emancipatory action.
 
